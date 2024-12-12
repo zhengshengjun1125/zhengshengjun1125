@@ -144,20 +144,6 @@ mindmap
 <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><br>
 
-<!-- gif -->
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/Roozenlz/Roozenlz/assets/images/html.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/Roozenlz/Roozenlz/assets/images/cssgif.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/Roozenlz/Roozenlz/assets/images/vscode.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/Roozenlz/Roozenlz/assets/images/react.webp">
-<img height="95" width="95" src="https://cdn.jsdelivr.net/gh/Roozenlz/Roozenlz/assets/images/vue.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/Roozenlz/Roozenlz/assets/images/js.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/Roozenlz/Roozenlz/assets/images/github.webp">
-
-<!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/Roozenlz/Roozenlz/assets/images/icon.png" /></div>
-
-<!-- profile-3d-contrib 3D贡献图-->
-<img src="https://cdn.jsdelivr.net/gh/Roozenlz/Roozenlz/profile-3d-contrib/profile-night-rainbow.svg" />
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
